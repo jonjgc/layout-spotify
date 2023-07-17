@@ -1,0 +1,17 @@
+Passo a passo:
+
+CRIAÇÃO DO PROJETO: (todas as opções são marcadas como yes)
+
+* npx create-next-app@latest --use-npm tailwind-spotify
+
+PARA BAIXAR A BIBLIOTECA DE ICONS DO LUCIDE.DEV:
+
+* npm install lucide-react
+
+
+
+
+
+
+
+
